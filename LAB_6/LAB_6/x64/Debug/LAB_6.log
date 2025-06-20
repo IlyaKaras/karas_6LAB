@@ -1,0 +1,4 @@
+﻿  FUNCTION.cpp
+D:\program\LAB_6\LAB_6\FUNCTION.cpp(30,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\program\LAB_6\LAB_6\FUNCTION.cpp(70,15): warning C4267: инициализация: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  LAB_6.vcxproj -> D:\program\LAB_6\x64\Debug\LAB_6.exe
